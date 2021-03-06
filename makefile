@@ -1,4 +1,4 @@
-MODULENAME = Metal_Oxidation_MD_Simulator 
+MODULENAME = functions 
 
 help:
 	@echo ""
