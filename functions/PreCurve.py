@@ -5,13 +5,16 @@ def clear(curve):
     This function is will delete the continuous background intensity and return a modified curve.
     Generally, the continuous curve will be a constant through out the whole curve.
     """
-    curve_noBackground = np.random.randn(*curve.shape)
+    origin = curve
+    curve_noBackground = np.random.randn(*origin.shape)
     return curve_noBackground
 
 def smooth(curve):
     """
     This function is to smooth the curve, so some small noise peak will not influence the accuracy of peak finding.
     """
+    if (len(curve) <= 50):
+        raise ValueError("XRD data is too short to find some useful information")
     curve_smooth = np.random.randn(*curve.shape)
     return curve_smooth
 
