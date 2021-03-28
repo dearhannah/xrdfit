@@ -1,4 +1,4 @@
-# Metal_oxidation_MD_simulater
+# XRD analysis
 
 Make a simulator for XRD data analysis
 
