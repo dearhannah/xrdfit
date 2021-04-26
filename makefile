@@ -1,4 +1,4 @@
-MODULENAME = functions 
+MODULENAME = xrd2021 
 
 help:
 	@echo ""
@@ -25,7 +25,7 @@ init:
 	conda env create --prefix ./envs --file environment.yml
 
 docs:
-	pdoc3 --force --html --output-dir ./docs $(MODULENAME)
+	pdoc3 --force --html --output-dir docs $(MODULENAME)
 
 lint:
 	pylint $(MODULENAME)

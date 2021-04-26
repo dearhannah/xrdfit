@@ -1,0 +1,12 @@
+name: /Users/menghan/envs
+channels:
+  - defaults
+dependencies:
+  - pylint
+  - pip
+  - pdoc3
+  - jupyter
+  - pytest
+  - numpy
+  - matplotlib
+prefix: /Users/menghan/envs

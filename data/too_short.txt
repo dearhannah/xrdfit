@@ -1,0 +1,149 @@
+         ID: 
+
+    Comment: 
+
+Scan Type: Normal
+Start Angle: 5 deg.
+Stop Angle: 100 deg.
+Num Points: 4751
+Step Size: 0.02 deg.
+Datafile Res: 1600 
+Scan Rate: 10.000000
+Scan Mode: Continuous
+Wavelength: 1.540562
+
+Diffractometer Optics:
+		Detector:
+			 Type: Fixed Slits
+			 X2 Configuration: No
+		Tube: 
+			 Type: Fixed Slits
+			 X2 Configuration: No
+
+
+Axis[0]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[1]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[2]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[3]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[4]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[5]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[6]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[7]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[8]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+Axis[9]
+	 Selected   : no 
+	 Iterative  : no 
+	 Start Angle: 0.000000 
+	 Stop Angle : 0.000000 
+	 Step Size  : 0.000000 
+	 Oscillating: no 
+
+
+
+
+	   Deg.      CPS  	    ESD   
+
+Range 0
+   5.000	    225.00	    43.301
+   5.020	    191.67	    39.965
+   5.040	    208.33	    41.667
+   5.060	    233.33	    44.096
+   5.080	    316.67	    51.370
+   5.100	    216.67	    42.492
+   5.120	    225.00	    43.301
+   5.140	    308.33	    50.690
+   5.160	    275.00	    47.871
+   5.180	    241.67	    44.876
+   5.200	    225.00	    43.301
+   5.220	    233.33	    44.096
+   5.240	    250.00	    45.644
+   5.260	    233.33	    44.096
+   5.280	    225.00	    43.301
+   5.300	    216.67	    42.492
+   5.320	    183.33	    39.087
+   5.340	    308.33	    50.690
+   5.360	    191.67	    39.965
+   5.380	    216.67	    42.492
+   5.400	    200.00	    40.825
+   5.420	    233.33	    44.096
+   5.440	    250.00	    45.644
+   5.460	    275.00	    47.871
+   5.480	    225.00	    43.301
+   5.500	    175.00	    38.188
+   5.520	    233.33	    44.096
+   5.540	    325.00	    52.042
+   5.560	    308.33	    50.690
+   5.580	    208.33	    41.667
+   5.600	    258.33	    46.398
+   5.620	    283.33	    48.591
+   5.640	    200.00	    40.825
+   5.660	    233.33	    44.096
+   5.680	    191.67	    39.965
+   5.700	    200.00	    40.825
+   5.720	    191.67	    39.965
+   5.740	    233.33	    44.096
+   5.760	    183.33	    39.087
+   5.780	    250.00	    45.644
