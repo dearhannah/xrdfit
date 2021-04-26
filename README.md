@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # X-Ray diffraction analysis
+=======
+# XRD analysis
+>>>>>>> 1386861adc040b66313a8425c0798ec3eeaba776
 
 In this program, I developde a set of tools to analyse the X-ray diffraction spectrum.
 
